@@ -1,0 +1,26 @@
+# Compilados de Java
+*.class
+
+# Logs
+*.log
+
+# Configuración de IDEs
+/.idea/
+/*.iml
+/.vscode/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos temporales
+*.tmp
+*.bak
+
+# Carpetas comunes
+target/
+bin/
+out/
+
+# Archivos personales
+*.swp
